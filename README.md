@@ -1,6 +1,6 @@
-# Coronavirus Symptoms Check
+//# Coronavirus Symptoms Check
 
-Check if you may have coronavirus (COVID-19)
+## Check if you may have coronavirus (COVID-19)
 
 [DOWNLOAD THE APP](https://tiny.app.link/DdkyYUTbZ4)
 
